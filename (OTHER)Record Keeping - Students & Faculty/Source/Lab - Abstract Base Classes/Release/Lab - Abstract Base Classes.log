@@ -1,0 +1,9 @@
+﻿  Base.cpp
+  Employee.cpp
+  Lab - Abstract Base Classes.cpp
+  Student.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 129 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Lab - Abstract Base Classes.vcxproj -> C:\Users\tyler\source\repos\Lab - Abstract Base Classes\Release\Lab - Abstract Base Classes.exe
