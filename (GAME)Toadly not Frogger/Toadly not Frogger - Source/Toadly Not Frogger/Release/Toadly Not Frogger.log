@@ -1,0 +1,8 @@
+﻿  Toadly Not Frogger.cpp
+C:\Users\tyler\source\repos\Toadly Not Frogger\Toadly Not Frogger\Toadly Not Frogger.cpp(154,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tyler\source\repos\Toadly Not Frogger\Toadly Not Frogger\Toadly Not Frogger.cpp(154,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 330 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Toadly Not Frogger.vcxproj -> C:\Users\tyler\source\repos\Toadly Not Frogger\Release\Toadly Not Frogger.exe

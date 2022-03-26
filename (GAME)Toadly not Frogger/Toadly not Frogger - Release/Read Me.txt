@@ -1,0 +1,50 @@
+=======================================
+		READ ME
+=======================================
+
+"Toadly Not Frogger"
+
+Tyler Clardy
+2022
+Programmed in C++ over the course of an afternoon.
+
+=======================================
+		Controls
+=======================================
+
+Left Arrow  (<) : Move Toadly left.
+Right Arrow (>) : Move Toadly right.
+Down Arrow  (v) : Move Toadly down.
+Up Arrow    (^) : Move Frogger up.
+
+=======================================
+		Game Rules
+=======================================
+Try and get Toadly across the road! If you reach the blue home tiles across the river, you've won! 
+Watch out for cars and buses, as well as water. Toadly can't swim! 
+
+Have fun!
+
+=======================================
+		Legal & Info
+=======================================
+
+Disclaimer: This is a student project made just for fun and practice! Free use of this program and it's source code is completely okay with me.
+I take no responsibility for bugs and/or anything this software does or does not do. This is given as is, with no future support or development.
+
+Made using olcConsoleGameEngine (Thanks Javidx9!)
+
+License
+~~~~~~~
+One Lone Coder Console Game Engine  Copyright (C) 2018  Javidx9
+This program comes with ABSOLUTELY NO WARRANTY.
+This is free software, and you are welcome to redistribute it
+under certain conditions; See license for details.
+
+Original works located at:
+	https://www.github.com/onelonecoder
+	https://www.onelonecoder.com
+	https://www.youtube.com/javidx9
+
+GNU GPLv3
+	https://github.com/OneLoneCoder/videos/blob/master/LICENSE

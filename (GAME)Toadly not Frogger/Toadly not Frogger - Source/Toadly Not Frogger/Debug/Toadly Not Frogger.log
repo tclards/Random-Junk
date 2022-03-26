@@ -1,0 +1,4 @@
+﻿  Toadly Not Frogger.cpp
+C:\Users\tyler\source\repos\Toadly Not Frogger\Toadly Not Frogger\Toadly Not Frogger.cpp(153,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tyler\source\repos\Toadly Not Frogger\Toadly Not Frogger\Toadly Not Frogger.cpp(153,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Toadly Not Frogger.vcxproj -> C:\Users\tyler\source\repos\Toadly Not Frogger\Debug\Toadly Not Frogger.exe
