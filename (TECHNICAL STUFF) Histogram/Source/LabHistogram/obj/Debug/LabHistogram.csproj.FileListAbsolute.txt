@@ -1,0 +1,7 @@
+C:\Users\tyler\source\repos\LabHistogram\LabHistogram\bin\Debug\LabHistogram.exe.config
+C:\Users\tyler\source\repos\LabHistogram\LabHistogram\bin\Debug\LabHistogram.exe
+C:\Users\tyler\source\repos\LabHistogram\LabHistogram\bin\Debug\LabHistogram.pdb
+C:\Users\tyler\source\repos\LabHistogram\LabHistogram\obj\Debug\LabHistogram.csproj.AssemblyReference.cache
+C:\Users\tyler\source\repos\LabHistogram\LabHistogram\obj\Debug\LabHistogram.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\LabHistogram\LabHistogram\obj\Debug\LabHistogram.exe
+C:\Users\tyler\source\repos\LabHistogram\LabHistogram\obj\Debug\LabHistogram.pdb
