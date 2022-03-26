@@ -1,0 +1,37 @@
+=======================================
+		READ ME
+=======================================
+
+"Legally-Distinct Tonris(Totally not Tetris)"
+
+Tyler Clardy
+2022
+Programmed in C++ over the course of an afternoon.
+
+=======================================
+		Controls
+=======================================
+
+Left Arrow  (<) : Move Tontris piece left.
+Right Arrow (>) : Move Tontris piece right.
+Down Arrow  (v) : Move Tontris piece down.
+Z Key	    (z) : Rotate Tontris piece 90°.
+
+=======================================
+		Game Rules
+=======================================
+Move your Tontris piece around the playing field while it is forced downward. Attempt to line up your pieces to fit together and create full lines.
+Every piece landed will score you small points, and lines formed will award large points. When lines are formed, they are cleared from the board, and points awarded.
+You gain greater points for stacking multiple line clears. Think strategically and attempt to clear many lines at once for Big Points!
+
+The longer the game is played, the faster the tick speed rises, meaning the game and pieces play faster. Get as many points as you can before game over!
+
+If your Tontris pieces stack out of bounds of the playing field, or if spawning the next piece is impossible, the game is over.
+
+
+
+Thanks for Playing! 
+How high can you get YOUR score? Have fun!
+
+Disclaimer: This is a student project made just for fun and practice! Free use of this program and it's source code is completely okay with me.
+I take no responsibility for bugs and/or anything this software does or does not do. This is given as is, with no future support or development.
