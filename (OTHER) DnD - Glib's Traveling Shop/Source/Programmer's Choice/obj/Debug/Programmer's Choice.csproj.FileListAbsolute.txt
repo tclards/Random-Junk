@@ -1,0 +1,7 @@
+C:\Users\tyler\source\repos\Programmer's Choice\Programmer's Choice\bin\Debug\Programmer's Choice.exe.config
+C:\Users\tyler\source\repos\Programmer's Choice\Programmer's Choice\bin\Debug\Programmer's Choice.exe
+C:\Users\tyler\source\repos\Programmer's Choice\Programmer's Choice\bin\Debug\Programmer's Choice.pdb
+C:\Users\tyler\source\repos\Programmer's Choice\Programmer's Choice\obj\Debug\Programmer's Choice.csproj.AssemblyReference.cache
+C:\Users\tyler\source\repos\Programmer's Choice\Programmer's Choice\obj\Debug\Programmer's Choice.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\Programmer's Choice\Programmer's Choice\obj\Debug\Programmer's Choice.exe
+C:\Users\tyler\source\repos\Programmer's Choice\Programmer's Choice\obj\Debug\Programmer's Choice.pdb
