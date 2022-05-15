@@ -1,0 +1,39 @@
+=======================================
+		READ ME
+=======================================
+
+"Snek"
+
+Tclards
+2022
+Programmed in C++ over the course of a few afternoons.
+
+=======================================
+		Controls
+=======================================
+
+Up	    (^) : Move Snake up.
+Right	    (>) : Move Snake right.
+Left	    (<) : Move Snake left.
+Down	    (v) : Move Snake down.
+
+=======================================
+		Game Rules
+=======================================
+Press Enter to play the game, or press Escape and then Enter to exit the game.
+
+Once in game, control the Snake with the arrow keys. Your goal is to eat the fruit objects, represented by the 'Q', while trying to avoid running into yourself or the walls.
+Every time you eat a fruit your Snake will grow one unit larger. Avoid the walls and your own tail!
+See how high you can get your score!
+
+Thank for playing and have fun!
+
+=======================================
+		Legal & Info
+=======================================
+
+Disclaimer: This is a student project made just for fun and practice! Free use of this program and it's source code is completely okay with me.
+I take no responsibility for bugs and/or anything this software does or does not do. This is given as is, with no future support or development.
+
+GitHub: 
+https://github.com/tclards

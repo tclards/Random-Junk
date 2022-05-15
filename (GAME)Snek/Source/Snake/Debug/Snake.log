@@ -1,0 +1,3 @@
+﻿  Snake.cpp
+Snake.obj : error LNK2019: unresolved external symbol "void __stdcall SetConsoleColors(unsigned short)" (?SetConsoleColors@@YGXG@Z) referenced in function "void __cdecl game_Window(void)" (?game_Window@@YAXXZ)
+C:\Users\lmcar\source\repos\Snake\Debug\Snake.exe : fatal error LNK1120: 1 unresolved externals
