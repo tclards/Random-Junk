@@ -1,0 +1,58 @@
+=======================================
+		READ ME
+=======================================
+
+"Perlin Noise Generator"
+
+Tyler Clardy
+2022
+Programmed in C++ over the course of an afternoon.
+
+=======================================
+		Controls
+=======================================
+
+Space Bar   (_) : Cycle through possible Octaves 1 - 8
+
+Q Key	    (Q) : Increase Scaling Bias by 0.2
+A Key	    (A) : Decrease Scaling Bias by 0.2
+
+1 Key 	    (1) : Select 1D Perlin Noise Generation
+2 Key	    (2) : Select 2D Perlin Noise Generation
+3 Key	    (3) : Select 2D Perlin Noise Generation - Colorized
+
+Z Key	    (Z) : Reroll Noise Seed(s)
+
+=======================================
+		Information
+=======================================
+This program is used to generate (psuedo)Perlin Noise. Perlin Noise can be useful for a variety of things.
+In this case, I was primarily interested in it as a tool to generate landscapes/terrain/heightmaps.
+
+Play around with it using the controls shown above. 
+
+Enjoy!
+
+=======================================
+		Legal & Info
+=======================================
+
+Disclaimer: This is a student project made just for fun and practice! Free use of this program and it's source code is completely okay with me.
+I take no responsibility for bugs and/or anything this software does or does not do. This is given as is, with no future support or development.
+
+Made using olcConsoleGameEngine (Thanks Javidx9!)
+
+License
+~~~~~~~
+One Lone Coder Console Game Engine  Copyright (C) 2018  Javidx9
+This program comes with ABSOLUTELY NO WARRANTY.
+This is free software, and you are welcome to redistribute it
+under certain conditions; See license for details.
+
+Original works located at:
+	https://www.github.com/onelonecoder
+	https://www.onelonecoder.com
+	https://www.youtube.com/javidx9
+
+GNU GPLv3
+	https://github.com/OneLoneCoder/videos/blob/master/LICENSE
