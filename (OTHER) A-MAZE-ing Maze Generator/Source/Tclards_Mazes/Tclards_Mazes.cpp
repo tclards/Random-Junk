@@ -1,5 +1,6 @@
 #include <iostream>
 #include <stack>
+#include <time.h>
 #include "olcConsoleGameEngine.h"
 
 using namespace std;
@@ -180,16 +181,22 @@ protected:
 int main()
 {
     // Seed random number generator
-    srand(clock());
+    srand(time(NULL) + clock());
 
     // Use olcConsoleGameEngine derived app
     Tclards_Maze game;
 
     // Create console
-    game.ConstructConsole(160, 100, 8, 8);
-
-    // Start the engine
-    game.Start();
+    if (game.ConstructConsole(160, 100, 8, 8))
+    {
+        // Start the engine
+        game.Start();
+    }
+    else if (game.ConstructConsole(180, 120, 4, 4))
+    {
+        // Start the engine
+        game.Start();
+    }
 
     return 0;
 }
